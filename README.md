@@ -2,6 +2,13 @@
 
 Modern animated landing page built with **React**, **Vite**, **Tailwind CSS**, and **GSAP**.
 
+
+---
+
+## 🌐 Live Demo
+
+👉 [View Live Demo](https://vercel.com/shakhzod-usmanovs-projects/mojito-gsap)
+
 ---
 
 ## 🚀 Stack
@@ -17,12 +24,6 @@ React · Vite · Tailwind CSS · GSAP · ScrollTrigger
 • Text reveal effects  
 • Scroll-controlled video  
 • Responsive layout  
-
----
-
-## 🌐 Live Demo
-
-👉 [View Live Demo](https://vercel.com/shakhzod-usmanovs-projects/mojito-gsap)
 
 ---
 
