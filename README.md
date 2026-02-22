@@ -7,7 +7,7 @@ Modern animated landing page built with **React**, **Vite**, **Tailwind CSS**, a
 
 ## 🌐 Live Demo
 
-👉 [View Live Demo](https://vercel.com/shakhzod-usmanovs-projects/mojito-gsap)
+👉 [View Live Demo](https://mojito-gsap-flax-ten.vercel.app/)
 
 ---
 
